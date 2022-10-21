@@ -1,0 +1,19 @@
+{
+  "name": "ifcjs",
+  "version": "1.0.0",
+  "description": "TESTE DO IFC.JS PARA GVBIM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RINACIMAR ELLER",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.135.0",
+    "web-ifc-three": "^0.0.121"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.0",
+    "rollup": "^2.79.1"
+  }
+}
